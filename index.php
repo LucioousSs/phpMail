@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Form Pendaftaran Mahasiswa Baru</h2>
+    <h2>Form Pendaftaran Pekerja Baru</h2>
 
      <form action="proses.php" method="POST">
         <table cellpadding="8">
